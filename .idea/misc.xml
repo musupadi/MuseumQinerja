@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/drawable-mdpi/background.xml" value="0.290625" />
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/drawable-mdpi/btn_rounded_primary.xml" value="0.290625" />
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/drawable-mdpi/button_blue_rounded.xml" value="0.290625" />
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/drawable-mdpi/rounded_white.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/drawable-xhdpi/half_bottom_blue.xml" value="0.290625" />
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/drawable-xhdpi/half_top_round.xml" value="0.290625" />
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/drawable/rounded_white.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/layout/activity_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/layout/activity_koleksi.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/layout/activity_master.xml" value="0.264" />
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/layout/activity_mutasi.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/layout/fragment_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Zyarga/AndroidStudioProjects/MuseumQinerja/app/src/main/res/layout/fragment_profile.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
